@@ -1,0 +1,33 @@
+{
+  "name": "@gonzih/skills-accounting",
+  "version": "1.0.0",
+  "description": "Claude Code skills for accountants, CPAs, and bookkeepers: tax-memo, client-advisory-letter, audit-finding-summary, engagement-letter",
+  "type": "module",
+  "bin": {
+    "skills-accounting": "./install.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "skills/",
+    "install.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude",
+    "skills",
+    "accounting",
+    "tax",
+    "audit",
+    "cpa",
+    "bookkeeping"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
