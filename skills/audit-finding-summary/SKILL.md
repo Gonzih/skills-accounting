@@ -37,3 +37,8 @@ Produce a fillable template for management to: agree or disagree with the findin
 
 ## Example outputs
 A structured finding write-up (Condition / Criteria / Cause / Effect / Recommendation) of approximately 300–500 words, followed by a management response block with labeled fields for management to complete.
+
+## Live Data Sources
+- **PCAOB auditing standards** — `pcaobus.org` (Public Company Accounting Oversight Board standards, staff guidance, and inspection reports)
+- **AICPA SAS standards summaries** — `aicpa.org` (Statements on Auditing Standards and AU-C section summaries for non-public entity audits)
+- **SOX compliance checklists** — Public SEC guidance at `sec.gov` (Sarbanes-Oxley Act compliance requirements, COSO framework references, and SEC staff bulletins)

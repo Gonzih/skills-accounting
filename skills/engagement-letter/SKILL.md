@@ -40,3 +40,8 @@ Include a signature block for both parties: authorized firm representative and c
 
 ## Example outputs
 A 2–4 page engagement letter in formal business letter format with clearly labeled sections, ready for the firm's attorney to review and adapt to their jurisdiction and professional standards.
+
+## Live Data Sources
+- **FRED economic indicators** — Federal Reserve Economic Data API at `fred.stlouisfed.org` (macroeconomic benchmarks, interest rates, and industry economic indicators)
+- **Industry DSO/DPO benchmarks** — `sba.gov` and industry association publications (days sales outstanding and days payable outstanding benchmarks by sector)
+- **SBA financial benchmarks by industry** — `sba.gov/business-guide` (Small Business Administration financial performance benchmarks and industry-specific cash flow norms)
