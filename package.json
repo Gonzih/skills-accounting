@@ -1,6 +1,6 @@
 {
   "name": "@gonzih/skills-accounting",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Claude Code skills for accountants, CPAs, and bookkeepers: tax-memo, client-advisory-letter, audit-finding-summary, engagement-letter",
   "type": "module",
   "bin": {

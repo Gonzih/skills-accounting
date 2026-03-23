@@ -31,3 +31,8 @@ Include a standard closing: an invitation to contact the firm with questions, a 
 
 ## Example outputs
 A 1–2 page letter addressed to a named client, structured as context → implications → recommended actions → close, suitable for email delivery or mailing on firm letterhead.
+
+## Live Data Sources
+- **IRS Publication 535 (Business Expenses)** — `irs.gov/publications/p535` (authoritative guidance on deductible and non-deductible business expenses)
+- **FASB accounting standards summaries** — `fasb.org` (publicly available FASB Accounting Standards Codification summaries and recent ASU updates)
+- **QuickBooks chart of accounts templates** — `quickbooks.intuit.com` (industry-specific chart of accounts templates and bookkeeping best-practice guides)

@@ -34,3 +34,9 @@ Translate the conclusion into plain language the client can understand. Avoid ja
 
 ## Example outputs
 A memo with headed sections — Issue, Facts, Law, Analysis, Conclusion, Client Summary — suitable for inclusion in a client file, shared with counsel, or used to support a tax return position.
+
+## Live Data Sources
+- **IRS tax tables and brackets** — `irs.gov/pub` (annual revenue procedures with updated tax rate schedules)
+- **State tax rate databases** — `tax-rates.org` (state income, sales, and corporate tax rates by jurisdiction)
+- **IRS Forms and Instructions** — IRS Forms and Instructions API / `irs.gov/forms-instructions` (current-year forms, instructions, and publications)
+- **Tax Foundation data** — `taxfoundation.org` (federal and state tax policy data, comparative rate tables, and fiscal fact sheets)
